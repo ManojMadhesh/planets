@@ -1,0 +1,114 @@
+
+.main-container{
+    /* font-size:30px; */
+background-color: gainsboro;
+height:100vh;
+
+}
+
+.info-box{
+    margin-top:15px;
+    border:1px solid grey ;
+    width:300px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 20px;
+    height: 300px;
+    background-color: white;
+    font-size: 20px;
+    font-family: cursive;
+    margin-left: 20px;
+    border-radius: 10px;
+
+}
+
+.fav-box{
+    display: flex;
+    flex-direction: row;
+    width:150px;
+    height:120px;
+    background-color: darkslateblue;
+    color:white;
+    border-radius: 10px;
+    border:none;
+    margin: 20px;
+    font-weight: bold;
+    padding: 20px;
+    justify-content: space-around;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.planet-container , .fav-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color:gainsboro;
+}
+
+
+
+.view-button{
+    border-radius: 5px;
+    border: none;
+    padding: 10px;
+    color: white;
+    width: 60%;
+    margin: auto;
+    font-size: initial;
+    font-weight: bold;
+    background-color: cornflowerblue;
+    font-size: 14px;
+    /* font-weight: bold; */
+    /* background-color: green; */
+    cursor: pointer;
+}
+
+.tab-container{
+    background-color:black;
+}
+
+.fav-image{
+    width: 45px;
+    height: 45px;
+    align-self: flex-end;
+}
+.tabs{
+    width:300px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    padding: 0px;
+    justify-content: space-evenly;
+}
+
+.tab1 , .tab2 {
+    height: 100%;
+    width: 50%;
+    cursor: pointer;
+    background-color: black;
+    color:white;
+    font-weight: bold;
+    font-size:18px;
+}
+.tab1:hover {
+    background-color: #009933;
+}
+.tab2:hover {
+    background-color: #009933;
+}
+.planet-images{
+    width:200px;
+    height:200px;
+    margin:auto;
+}
+
+/* .tab1 :hover {
+    background-color:#009933;
+} */
+.tab-name{
+    text-align: center;
+    margin-top: 10px;
+}
+
+

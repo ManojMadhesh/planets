@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/planets/static/css/main.cb6cdc33.chunk.css",
+    "main.js": "/planets/static/js/main.97591e57.chunk.js",
+    "main.js.map": "/planets/static/js/main.97591e57.chunk.js.map",
+    "runtime-main.js": "/planets/static/js/runtime-main.6c78c222.js",
+    "runtime-main.js.map": "/planets/static/js/runtime-main.6c78c222.js.map",
+    "static/js/2.11c53691.chunk.js": "/planets/static/js/2.11c53691.chunk.js",
+    "static/js/2.11c53691.chunk.js.map": "/planets/static/js/2.11c53691.chunk.js.map",
+    "static/js/3.ac179b73.chunk.js": "/planets/static/js/3.ac179b73.chunk.js",
+    "static/js/3.ac179b73.chunk.js.map": "/planets/static/js/3.ac179b73.chunk.js.map",
+    "index.html": "/planets/index.html",
+    "static/css/main.cb6cdc33.chunk.css.map": "/planets/static/css/main.cb6cdc33.chunk.css.map",
+    "static/js/2.11c53691.chunk.js.LICENSE.txt": "/planets/static/js/2.11c53691.chunk.js.LICENSE.txt",
+    "static/media/Ceres.085dd1f3.jpg": "/planets/static/media/Ceres.085dd1f3.jpg",
+    "static/media/Earth.d0e44f9b.jpg": "/planets/static/media/Earth.d0e44f9b.jpg",
+    "static/media/Eris.6f25dccd.jpg": "/planets/static/media/Eris.6f25dccd.jpg",
+    "static/media/Haumea.3b59dd6c.jpg": "/planets/static/media/Haumea.3b59dd6c.jpg",
+    "static/media/Jupiter.617fa2ce.jpg": "/planets/static/media/Jupiter.617fa2ce.jpg",
+    "static/media/Makemake.5a352c1a.jpg": "/planets/static/media/Makemake.5a352c1a.jpg",
+    "static/media/Mars.6dfeaa71.jpg": "/planets/static/media/Mars.6dfeaa71.jpg",
+    "static/media/Mercury.69a961aa.jpg": "/planets/static/media/Mercury.69a961aa.jpg",
+    "static/media/Saturn.0c5c08cf.jpg": "/planets/static/media/Saturn.0c5c08cf.jpg",
+    "static/media/Venus.8357b03a.jpg": "/planets/static/media/Venus.8357b03a.jpg",
+    "static/media/favourite.1d7f1be0.png": "/planets/static/media/favourite.1d7f1be0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c78c222.js",
+    "static/js/2.11c53691.chunk.js",
+    "static/css/main.cb6cdc33.chunk.css",
+    "static/js/main.97591e57.chunk.js"
+  ]
+}
